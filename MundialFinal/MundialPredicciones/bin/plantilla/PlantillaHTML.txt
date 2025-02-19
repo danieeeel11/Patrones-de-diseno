@@ -1,0 +1,569 @@
+__
+<h1>FASE DE GRUPOS</h1>
+<table>
+<caption>__</caption>
+<tr>
+<th>Pais</th>
+<th>W</th>
+<th>D</th>
+<th>L</th>
+<th>GF</th>
+<th>GA</th>
+<th>GD</th>
+<th>Puntos</th>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+</table>
+<br>
+<table>
+<caption>__</caption>
+<tr>
+<th>Pais</th>
+<th>W</th>
+<th>D</th>
+<th>L</th>
+<th>GF</th>
+<th>GA</th>
+<th>GD</th>
+<th>Puntos</th>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+</table>
+<br>
+<table>
+<caption>__</caption>
+<tr>
+<th>Pais</th>
+<th>W</th>
+<th>D</th>
+<th>L</th>
+<th>GF</th>
+<th>GA</th>
+<th>GD</th>
+<th>Puntos</th>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+</table>
+<br>
+<table>
+<caption>__</caption>
+<tr>
+<th>Pais</th>
+<th>W</th>
+<th>D</th>
+<th>L</th>
+<th>GF</th>
+<th>GA</th>
+<th>GD</th>
+<th>Puntos</th>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+</table>
+<br>
+<table>
+<caption>__</caption>
+<tr>
+<th>Pais</th>
+<th>W</th>
+<th>D</th>
+<th>L</th>
+<th>GF</th>
+<th>GA</th>
+<th>GD</th>
+<th>Puntos</th>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+</table>
+<br>
+<table>
+<caption>__</caption>
+<tr>
+<th>Pais</th>
+<th>W</th>
+<th>D</th>
+<th>L</th>
+<th>GF</th>
+<th>GA</th>
+<th>GD</th>
+<th>Puntos</th>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+</table>
+<br>
+<table>
+<caption>__</caption>
+<tr>
+<th>Pais</th>
+<th>W</th>
+<th>D</th>
+<th>L</th>
+<th>GF</th>
+<th>GA</th>
+<th>GD</th>
+<th>Puntos</th>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+</table>
+<br>
+<table>
+<caption>__</caption>
+<tr>
+<th>Pais</th>
+<th>W</th>
+<th>D</th>
+<th>L</th>
+<th>GF</th>
+<th>GA</th>
+<th>GD</th>
+<th>Puntos</th>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+<tr>
+<th>__</th>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+<td>__</td>
+</tr>
+</table>
+<br>
+<br>
+<h1>FASE DE ELIMINACION</h1>
+<table>
+<tr>
+<th>OCTAVOS</th>
+<th>CUARTOS</th>
+<th>SEMIS</th>
+<th>TERCER LUGAR</th>
+<th>FINAL</th>
+</tr>
+<tr>
+<td>__</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>__</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>__</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>__</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>__</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>__</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>__</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>__</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>__</td>
+<td> </td>
+<td> </td>
+<td>__</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>__</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>__</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>__</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>__</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>__</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>__</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</table>
+<br>
+<h1>POSICIONES</h1>
+<p>__</p>
+<p>__</p>
+<p>__</p>
